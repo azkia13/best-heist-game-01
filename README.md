@@ -1,8 +1,8 @@
 # VAULTBREAK: The Meridian Job
 
-[![make.fun competition](https://make.fun/bounty/best-heist-game-20261122-0559/badge.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![make.fun rank](https://make.fun/bounty/best-heist-game-20261122-0559/rank/azkia13.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![make.fun reward](https://make.fun/bounty/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun competition](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun rank](https://make.fun/badge/best-heist-game-20261122-0559/azkia13/best-heist-game-01/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun reward](https://make.fun/badge/best-heist-game-20261122-0559/azkia13/best-heist-game-01/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 A top-down 2D stealth heist game. One museum, one vault, one gold star worth
 $5,000 — slip past the night guards and the wall cameras, lift the Meridian
